@@ -14,7 +14,7 @@ pipeline {
         stage('Unit Test'){
             steps{
 	            bat 'dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover'
-                step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'kunalrust@gmail.com', sendToIndividuals: false])
+                step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'kunalrust@gmail.com', sendToIndividuals: true])
             }
         }
         stage('Code Coverage'){
