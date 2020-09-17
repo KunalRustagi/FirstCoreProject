@@ -1,0 +1,16 @@
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.exe
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.deps.json
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.runtimeconfig.json
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.runtimeconfig.dev.json
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.dll
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.pdb
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstLib.dll
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstLib.pdb
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.csprojAssemblyReference.cache
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.AssemblyInfoInputs.cache
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.AssemblyInfo.cs
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.csproj.CoreCompileInputs.cache
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.csproj.CopyComplete
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.dll
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.pdb
+C:\Users\kunrusta\Desktop\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.genruntimeconfig.cache
