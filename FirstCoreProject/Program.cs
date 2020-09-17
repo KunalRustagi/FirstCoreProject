@@ -6,7 +6,7 @@ namespace FirstCoreProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! This is Commit1");
+            Console.WriteLine("Hello World");
         }
     }
 }
