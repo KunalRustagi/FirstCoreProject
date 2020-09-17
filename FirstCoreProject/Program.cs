@@ -8,9 +8,8 @@ namespace FirstCoreProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            g
             Calculator cal = new Calculator();
-            System.Consoe.WriteLine(cal.add(3,4));
+            System.Console.WriteLine(cal.add(3,4));
         }
     }
 }
