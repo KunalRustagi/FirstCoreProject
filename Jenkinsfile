@@ -6,7 +6,9 @@ pipeline {
             steps{
                 bat 'git log'
                 bat 'dotnet build'
-                step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'kunalrust@gmail.com', sendToIndividuals: true])
+                if (currentBuild.currentResult == 'FAILURE') {
+                     step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: "kunalrust@gmail.com", sendToIndividuals: true])
+                }
             }
         }
         stage('Unit Test'){
