@@ -10,7 +10,7 @@ namespace FirstCoreProject
             Console.WriteLine("Hello World");
             g
             Calculator cal = new Calculator();
-            System.Console.WriteLine(cal.add(3,4));
+            System.Consoe.WriteLine(cal.add(3,4));
         }
     }
 }
