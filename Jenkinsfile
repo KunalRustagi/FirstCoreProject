@@ -6,14 +6,14 @@ pipeline {
             steps{
                 bat 'git log'
                 bat 'dotnet build'
-                step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: "kunalrust@gmail.com", sendToIndividuals: true])
+               
                 
             }
         }
         stage('Unit Test'){
             steps{
 	            bat 'dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover'
-                step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'kunalrust@gmail.com', sendToIndividuals: true])
+                    step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'kunalrust@gmail.com', sendToIndividuals: true])
             }
         }
         stage('Code Coverage'){
